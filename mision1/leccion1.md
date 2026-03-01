@@ -17,4 +17,8 @@ Reglas de oro para hablar con el robot:
 1.  Los Paréntesis `( )`: Son como la boca del robot. Lo que esté adentro es lo que va a decir.
 2.  Las Comillas `" "`: Son súper importantes. Le dicen al robot: *"Oye, esto es un mensaje de texto, no una instrucción interna"*. Si no pones comillas, el robot se confunde y marca error.
 
+> [!TIP]
+> Si olvidas una comilla, el robot te dirá `SyntaxError`. ¡No te asustes! Solo revisa y cierra la comilla.
 
+---
+👉 **[Continuar a la Misión 1](./mision1.md)**
