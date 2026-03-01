@@ -28,7 +28,7 @@ Cada tema es una nueva misión por conquistar:
 - [ ] Lección 7: El Archivador de Datos (Listas).
 - [ ] Lección 8: El Creador de Comandos (Funciones).
 
-> ⚠️ **Nota:** Este temario está sujeto a cambios por parte de **Google Gemini** para adaptarse mejor al progreso y curiosidad de Dylan.
+> ⚠️ **Nota:** Este temario está sujeto a cambios por parte de **ChatGPT** para adaptarse mejor al progreso y curiosidad de Dylan.
 ---
 
 ### 🛠 Herramientas y Skills
