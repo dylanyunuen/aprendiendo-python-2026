@@ -4,19 +4,19 @@
 
 ---
 
-### 👨‍👩‍👦 Equipo de Desarrollo
+## 👨‍👩‍👦 Equipo de Desarrollo
 * Administrador del Proyecto: [Miguel Guzmán](https://github.com/MiguelGuzmanDev/) (Papá de Dylan) 
 * Programador Estrella: Dylan Yunuen Guzmán
 * Mentor Inteligente: ChatGPT (IA)
 
 ---
 
-### 🤖 El Experimento
+## 🤖 El Experimento
 Este repositorio es una prueba especial para demostrar que podemos usar la Inteligencia Artificial (IA) a nuestro favor para que nuestros hijos aprendan cosas increíbles. Estamos armando este curso paso a paso para dominar el futuro del código.
 
 ---
 
-### 📚 Temario Maestro (Diseñado por ChatGPT)
+## 📚 Temario Maestro (Diseñado por ChatGPT)
 Cada tema es una nueva misión por conquistar:
 
 - [x] Lección 1: El Robot que Habla (Salida de datos: print y strings).
@@ -31,7 +31,7 @@ Cada tema es una nueva misión por conquistar:
 > ⚠️ **Nota:** Este temario está sujeto a cambios por parte de **ChatGPT** para adaptarse mejor al progreso y curiosidad de Dylan.
 ---
 
-### 🛠 Herramientas y Skills
+## 🛠 Herramientas y Skills
 En este proyecto usamos tecnología de verdad para aprender:
 * 🐍 Python: El lenguaje de los robots.
 * 📲 Pydroid 3: Nuestro laboratorio de pruebas.

@@ -49,5 +49,5 @@ print("========================================")
 
 🎉 ¡Misión cumplida! Has creado tu primer programa para un negocio real.
 
-👉 **[Siguiente: Lección 2 - Las Cajas Mágicas (Variables de texto y números)](./leccion2.md)**
+👉 **[Siguiente: Lección 2 - Las Cajas Mágicas (Variables de texto y números)](../leccion2/README.md)**
 
