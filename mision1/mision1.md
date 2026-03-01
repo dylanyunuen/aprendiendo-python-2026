@@ -1,6 +1,6 @@
 # 🚀 Misión 1: El Robot que Habla (Versión Extendida)
 
-### 🧩 El Ejercicio
+## 🧩 El Ejercicio
 Tu misión es escribir un código que haga tres cosas:
 1.  Saludar al mundo.
 2.  Decir cuántos años tienes.
@@ -8,7 +8,7 @@ Tu misión es escribir un código que haga tres cosas:
 
 ---
 
-### 💻 El Código de la Misión
+## 💻 El Código de la Misión
 Abre tu editor (Pydroid 3 o Replit) y escribe exactamente esto:
 
 ```python
@@ -22,7 +22,7 @@ print("Mi superpoder favorito es la invisibilidad.")
 
 ---
 
-### 📂 Guardar y Subir
+## 📂 Guardar y Subir
 
 * **💾 Nombre del archivo:** `mision1_saludo.py`
 * **🎮 Prueba:** Dale al botón de **Play** en tu editor y asegúrate de que aparezcan tus 3 mensajes sin errores en la pantalla negra.
