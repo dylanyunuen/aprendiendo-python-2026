@@ -1,4 +1,4 @@
-# 🚀 Misión 1: El Robot que Habla
+# 🚀 Leccion 1: El Robot que Habla
 
 ¡Hola, Dylan! Bienvenido a tu primera misión secreta. Hoy vas a aprender a darle voz a tu tablet usando el lenguaje de los robots: Python.
 
