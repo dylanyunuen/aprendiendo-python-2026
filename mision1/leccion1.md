@@ -21,4 +21,4 @@ Reglas de oro para hablar con el robot:
 > Si olvidas una comilla, el robot te dirá `SyntaxError`. ¡No te asustes! Solo revisa y cierra la comilla.
 
 ---
-👉 **[Continuar a la Misión 1](./mision1.md)**
+👉 **[Siguiente: ¡El Robot que Habla! (Misión 1)](./mision1.md)**
