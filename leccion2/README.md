@@ -1,3 +1,5 @@
+👉 **[Volver: Lección 1 - El Robot que Habla](../leccion1/README.md)**
+
 # 🚀 Lección 2: Las Cajas Mágicas (Variables de texto y números)
 
 ¡Hola, Dylan! 🎉  
@@ -82,23 +84,4 @@ El robot junta todo y lo muestra bonito en pantalla.
 
 ---
 
-### 🎮 Mini Reto
-
-Crea un programa que tenga:
-
-- Tu nombre  
-- Tu edad  
-- Tu comida favorita  
-- Tu videojuego favorito  
-
-Y que el robot lo muestre en pantalla como una presentación.
-
----
-
-📂 **Guardar como:** `mision2_variables.py`  
-🌐 **Subir a GitHub:** Carpeta `mision2/` dentro de tu repositorio `aprendiendo-python-2026`
-
----
-
-🎉 ¡Felicidades! Ahora tu robot no solo habla… ¡también recuerda cosas!  
-👉 **Siguiente: Misión 3 - La Calculadora Secreta**
+👉 **[Siguiente: Misión 1 - ¡Mi Tarjeta de Programador!](./mision1.md)**

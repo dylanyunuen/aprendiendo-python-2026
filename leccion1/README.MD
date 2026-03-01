@@ -1,5 +1,5 @@
 
-# 🚀 Leccion 1: El Robot que Habla
+# 🚀 Lección 1: El Robot que Habla
 
 ¡Hola, Dylan! Bienvenido a tu primera misión secreta. Hoy vas a aprender a darle voz a tu tablet usando el lenguaje de los robots: Python.
 
@@ -22,4 +22,5 @@ Reglas de oro para hablar con el robot:
 > Si olvidas una comilla, el robot te dirá `SyntaxError`. ¡No te asustes! Solo revisa y cierra la comilla.
 
 ---
+
 👉 **[Siguiente: Misión 1 - ¡El Robot que Habla!](./mision1.md)**

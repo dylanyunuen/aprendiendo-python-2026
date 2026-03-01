@@ -33,19 +33,23 @@ print("          ¡BIENVENIDOS Y BUEN PROVECHO! ")
 print("========================================")
 ```
 
+---
+
 ## 🧠 ¿Qué estamos practicando?
 - Orden: Que las líneas queden derechitas dentro de las comillas.
 - Precisión: No olvidar ningún paréntesis ().
 - Creatividad: Usar símbolos para que el negocio de papá se vea genial.
 
-### 📂 Guardar y Subir
+---
 
-* **💾 Nombre del archivo:** `ventas.py`
+## 📂 Guardar y Subir
+
+* **💾 Nombre del archivo:** `reto1_ventas.py`
 * **🎮 Prueba:** Dale al botón de **Play** en tu editor y asegúrate de que aparezcan tus 3 mensajes sin errores en la pantalla negra.
-* **🌐 GitHub:** Sube este archivo a tu carpeta `/` dentro de tu repositorio `aprendiendo-python-2026`.
+* **🌐 GitHub:** Sube este archivo a tu carpeta `leccion1/` dentro de tu repositorio `aprendiendo-python-2026`.
 
-📂 Guardar y Subir
-💾 Nombre del archivo: reto1_ventas.py
+---
+
 
 🎉 ¡Misión cumplida! Has creado tu primer programa para un negocio real.
 

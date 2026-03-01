@@ -27,10 +27,14 @@ print("   > ^ <   ")
 ### 💡 Un consejo para Dylan:
 Dile que si quiere que su gato sea un "Gato Hacker", puede intentar cambiar los ojos `o.o` por signos de dólar `$.$` o por asteriscos `*.*`. ¡Es su primer dibujo digital con código!
 
+---
+
 ### 📂 Guardar y Subir
 
-* **💾 Nombre del archivo:** `mision1_saludo.py`
+* **💾 Nombre del archivo:** `mision2_dibujo.py`
 * **🎮 Prueba:** Dale al botón de **Play** en tu editor y asegúrate de que aparezcan tus 3 mensajes sin errores en la pantalla negra.
-* **🌐 GitHub:** Sube este archivo a tu carpeta `mision1/` dentro de tu repositorio `aprendiendo-python-2026`.
+* **🌐 GitHub:** Sube este archivo a tu carpeta `leccion2/` dentro de tu repositorio `aprendiendo-python-2026`.
+
+---
 
 👉 **[Siguiente: Reto 1 - ¡El Sistema de Ventas!](./reto1.md)**

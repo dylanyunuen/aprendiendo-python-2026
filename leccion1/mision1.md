@@ -26,7 +26,7 @@ print("Mi superpoder favorito es la invisibilidad.")
 
 * **💾 Nombre del archivo:** `mision1_saludo.py`
 * **🎮 Prueba:** Dale al botón de **Play** en tu editor y asegúrate de que aparezcan tus 3 mensajes sin errores en la pantalla negra.
-* **🌐 GitHub:** Sube este archivo a tu carpeta `mision1/` dentro de tu repositorio `aprendiendo-python-2026`.
+* **🌐 GitHub:** Sube este archivo a tu carpeta `leccion1/` dentro de tu repositorio `aprendiendo-python-2026`.
 
 ---
 👉 **[Siguiente: Misión 2 - ¡Haz que el robot dibuje!](./mision2.md)**
