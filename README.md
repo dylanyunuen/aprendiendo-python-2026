@@ -7,7 +7,7 @@
 ### 👨‍👩‍👦 Equipo de Desarrollo
 * Administrador del Proyecto: [Miguel Guzmán](https://github.com/MiguelGuzmanDev/) (Papá de Dylan) 
 * Programador Estrella: Dylan Yunuen Guzmán
-* Mentor Inteligente: Google Gemini (IA)
+* Mentor Inteligente: ChatGPT (IA)
 
 ---
 
@@ -16,7 +16,7 @@ Este repositorio es una prueba especial para demostrar que podemos usar la Intel
 
 ---
 
-### 📚 Temario Maestro (Diseñado por Gemini)
+### 📚 Temario Maestro (Diseñado por ChatGPT)
 Cada tema es una nueva misión por conquistar:
 
 - [x] Lección 1: El Robot que Habla (Salida de datos: print y strings).
@@ -36,7 +36,7 @@ En este proyecto usamos tecnología de verdad para aprender:
 * 🐍 Python: El lenguaje de los robots.
 * 📲 Pydroid 3: Nuestro laboratorio de pruebas.
 * 💻 Termux: La consola para los que saben de verdad.
-* 🧠 Google Gemini: Nuestro tutor inteligente.
+* 🧠 ChatGPT: Nuestro tutor inteligente.
 * 🐙 GitHub: Nuestra nube para guardar el código para siempre.
 
 ---
