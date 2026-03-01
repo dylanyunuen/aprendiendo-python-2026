@@ -4,7 +4,7 @@
 
 ---
 
-### 🎯 Objetivo de la Misión
+### 🎯 Objetivo de la Lección
 Lograr que el robot (tu tablet) muestre mensajes personalizados en la pantalla para que todo el mundo sepa que ya eres un programador.
 
 ---
