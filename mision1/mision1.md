@@ -29,4 +29,4 @@ print("Mi superpoder favorito es la invisibilidad.")
 * **🌐 GitHub:** Sube este archivo a tu carpeta `mision1/` dentro de tu repositorio `aprendiendo-python-2026`.
 
 ---
-👉 **[Siguiente: ¡Haz que el robot dibuje! (Misión 2)](./mision2.md)**
+👉 **[Siguiente: Misión 2 - ¡Haz que el robot dibuje!](./mision2.md)**
