@@ -19,14 +19,14 @@ Este repositorio es una prueba especial para demostrar que podemos usar la Intel
 ### 📚 Temario Maestro (Diseñado por Gemini)
 Cada tema es una nueva misión por conquistar:
 
-- [x] Misión 1: El Robot que Habla (Salida de datos: print y strings).
-- [ ] Misión 2: Las Cajas Mágicas (Variables de texto y números).
-- [ ] Misión 3: El Robot Preguntón (Entrada de datos: input).
-- [ ] Misión 4: Matemáticas de Superhéroe (Operaciones y concatenación).
-- [ ] Misión 5: El Robot que Decide (Condicionales: if, else).
-- [ ] Misión 6: El Bucle Infinito (Ciclos: while y for).
-- [ ] Misión 7: El Archivador de Datos (Listas).
-- [ ] Misión 8: El Creador de Comandos (Funciones).
+- [x] Lección 1: El Robot que Habla (Salida de datos: print y strings).
+- [ ] Lección 2: Las Cajas Mágicas (Variables de texto y números).
+- [ ] Lección 3: El Robot Preguntón (Entrada de datos: input).
+- [ ] Lección 4: Matemáticas de Superhéroe (Operaciones y concatenación).
+- [ ] Lección 5: El Robot que Decide (Condicionales: if, else).
+- [ ] Lección 6: El Bucle Infinito (Ciclos: while y for).
+- [ ] Lección 7: El Archivador de Datos (Listas).
+- [ ] Lección 8: El Creador de Comandos (Funciones).
 
 > ⚠️ **Nota:** Este temario está sujeto a cambios por parte de **Google Gemini** para adaptarse mejor al progreso y curiosidad de Dylan.
 ---
