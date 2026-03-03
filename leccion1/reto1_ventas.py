@@ -1,0 +1,13 @@
+# Reto 1: Sistema de Ventas de Papas y Alitas
+print("========================================")
+print("   SISTEMA DE VENTAS: PAPAS Y ALITAS    ")
+print("          BOTANAS TEPOSCOLULA           ")
+print("        ¡LAS MEJORES DEL MUNDO!         ")
+print(" ")
+print("            (  )     (  )               ")
+print("")
+print("           (=============)              ")
+print("")
+print("      ¡BIENVENIDOS Y BUEN PROVECHO!     ")
+print("         HECHO POR: DYLAN YUNUEN        ")
+print("========================================")
